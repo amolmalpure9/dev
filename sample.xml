@@ -1,0 +1,14 @@
+<xml>
+  <student>
+    <name>Amol</name>
+    <id>1</id>
+  </student>
+  <student>
+    <name>Anish</name>
+    <id>2</id>
+  </student>
+  <student>
+    <name>Akbar</name>
+    <id>3</id>
+  </student>
+</xml>
